@@ -1,0 +1,2 @@
+Predict global unemployment rates using LSTM neural networks with World Bank data. Features interactive Gradio interface for forecasting and country-level analysis.
+
